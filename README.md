@@ -17,7 +17,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 <p>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg" alt="illustrator" width="40" height="40"/></a>
