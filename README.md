@@ -4,7 +4,7 @@
 ![](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
 👑 I am Web Designer   
-🌱 I’m currently learning Cross platform Apps using ASP.NET, Angular & React  
+<h4>🌱 I’m currently learning ASP.NET, Angular & React </h4> 
 🎤 Like to share my knowledge  
 💬 Ask me about Web Design
 <h3>🚀 About Me</h3>
