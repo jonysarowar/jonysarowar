@@ -5,7 +5,7 @@
 
 👑 I am Web Designer   
 <h4>🌱 I’m currently learning ASP.NET, Angular & React </h4> 
-🎤 Like to share my knowledge  
+🎤 Like to share my knowledge<br>
 💬 Ask me about Web Design
 <h3>🚀 About Me</h3>
 <hr>
