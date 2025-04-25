@@ -3,7 +3,7 @@
 
 ![](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
-👑 I am Web Designer   
+## 👑 I am .NET DEVELOPER   
 <h4>🌱 I’m currently learning ASP.NET, Angular & React </h4> 
 🎤 Like to share my knowledge<br>
 💬 Ask me about Web Design
