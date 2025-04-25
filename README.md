@@ -15,67 +15,37 @@ I'm a dedicated and enthusiastic .NET developer, currently exploring the world o
 
 ---
 
-### 🧑‍💻 Languages
-- C#
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+### 🧠 Skills Overview
 
-### 🧩 Frameworks & Runtimes
-- ASP.NET MVC
-- ASP.NET Core
-- Entity Framework
-- ADO.NET
-- Node.js
-- Express.js
+| 🧑‍💻 Languages                  | 🧩 Frameworks & Runtimes       | 🎨 Front-end                 |
+|-------------------------------|-------------------------------|-----------------------------|
+| C#                            | ASP.NET MVC                   | Angular                     |
+| JavaScript                    | ASP.NET Core                  | React                       |
+| HTML5                         | Entity Framework              | Bootstrap                   |
+| CSS3                          | ADO.NET                       | jQuery                      |
+| SQL                           | Node.js, Express.js           | Tailwind CSS, EJS          |
 
-### 🎨 Front-end
-- Angular
-- React
-- Bootstrap
-- jQuery
-- Tailwind CSS
-- EJS
+| 🗄️ Database                   | 🛠️ Tools & Platforms           | 🌐 Web Technologies         |
+|------------------------------|-------------------------------|-----------------------------|
+| MS SQL Server                | Visual Studio, VS Code        | JSON, XML                   |
+|                              | Git & GitHub                  | AJAX                        |
+|                              | Postman                       | WebSockets, Socket.IO       |
+|                              | Crystal Reports, Figma        |                             |
+|                              | Photoshop, Illustrator        |                             |
+|                              | Netlify                       |                             |
 
-### 🗄️ Database
-- MS SQL Server
-
-### 🛠️ Tools & Platforms
-- Visual Studio
-- Visual Studio Code
-- Git & GitHub
-- Postman
-- Crystal Reports
-- Figma
-- Photoshop
-- Illustrator
-- Netlify
-
-### 🌐 Web Technologies
-- JSON
-- XML
-- AJAX
-- WebSockets
-- Socket.IO
-
-### 🧠 Other Skills
-- Object-Oriented Programming (OOP)
-- Repository Pattern
-- Factory Pattern
-- RESTful API
-- LINQ
-- Report Generation
-- Authentication & Authorization
-- Session Management
+| 🔧 Other Skills                                                                 |
+|----------------------------------------------------------------------------------|
+| OOP, Repository Pattern, Factory Pattern, RESTful API, LINQ                     |
+| Report Generation, Authentication & Authorization, Session Management           |
 
 ---
 
 ### 🎯 Vision
+
 I aim to become a full-stack developer capable of creating impactful software that enhances user experience and solves real-life problems. I'm constantly growing, learning, and striving for excellence in every project I build.
 
 ---
-<hr>
 
 <p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40" height="40"/></a>
