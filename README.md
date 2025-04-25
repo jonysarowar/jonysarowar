@@ -9,8 +9,72 @@
 💬 Ask me about Web Design
 <h3>🚀 About Me</h3>
 <hr>
-"Passionate <b> web designer</b> specializing in HTML, CSS, Tailwind CSS, and JavaScript. I bring designs to life by converting PSD and Figma files into responsive, clean, and modern websites. Skilled in crafting user-friendly interfaces and functional layouts, with a strong focus on detail and creativity. Let’s build something great together!"
-<h3>👨‍💻 Skills & Experiance:</h3>
+## 👋 Hello, I'm Jony Sarowar
+
+I'm a dedicated and enthusiastic .NET developer, currently exploring the world of cross-platform applications using ASP.NET Core, Angular, and React. I love solving problems through code, and I'm passionate about learning modern technologies and building real-world solutions.
+
+---
+
+### 🧑‍💻 Languages
+- C#
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### 🧩 Frameworks & Runtimes
+- ASP.NET MVC
+- ASP.NET Core
+- Entity Framework
+- ADO.NET
+- Node.js
+- Express.js
+
+### 🎨 Front-end
+- Angular
+- React
+- Bootstrap
+- jQuery
+- Tailwind CSS
+- EJS
+
+### 🗄️ Database
+- MS SQL Server
+
+### 🛠️ Tools & Platforms
+- Visual Studio
+- Visual Studio Code
+- Git & GitHub
+- Postman
+- Crystal Reports
+- Figma
+- Photoshop
+- Illustrator
+- Netlify
+
+### 🌐 Web Technologies
+- JSON
+- XML
+- AJAX
+- WebSockets
+- Socket.IO
+
+### 🧠 Other Skills
+- Object-Oriented Programming (OOP)
+- Repository Pattern
+- Factory Pattern
+- RESTful API
+- LINQ
+- Report Generation
+- Authentication & Authorization
+- Session Management
+
+---
+
+### 🎯 Vision
+I aim to become a full-stack developer capable of creating impactful software that enhances user experience and solves real-life problems. I'm constantly growing, learning, and striving for excellence in every project I build.
+
+---
 <hr>
 
 <p>
