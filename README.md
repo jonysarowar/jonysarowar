@@ -9,7 +9,6 @@
 💬 Ask me about Web Design
 <h3>🚀 About Me</h3>
 <hr>
-## 👋 Hello, I'm Jony Sarowar
 
 I'm a dedicated and enthusiastic .NET developer, currently exploring the world of cross-platform applications using ASP.NET Core, Angular, and React. I love solving problems through code, and I'm passionate about learning modern technologies and building real-world solutions.
 
