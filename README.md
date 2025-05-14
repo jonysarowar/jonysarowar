@@ -16,7 +16,7 @@ I'm a dedicated and enthusiastic .NET developer, currently exploring the world o
 
 ### 🧠 Skills Overview
 
-| 🧑‍💻 Languages                  | 🧩 Frameworks & Runtimes       | 🎨 Front-end                 |
+| 🧑‍💻 Languages                  | 🧩 Frameworks & Runtimes       | 🎨 Front-end                 
 |-------------------------------|-------------------------------|-----------------------------|
 | C#                            | ASP.NET MVC                   | Angular                     |
 | JavaScript                    | ASP.NET Core                  | React                       |
