@@ -4,9 +4,9 @@
 ![](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
 ## 👑 .NET DEVELOPER   
-<h4>🌱 I’m currently learning ASP.NET, Angular & React </h4> 
-🎤 Like to share my knowledge<br>
-💬 Interested in Web Design? With my expertise in .NET development, I bridge the gap between design and functionality.
+<h4>🌱 Currently exploring ASP.NET, Angular, and React to build modern, scalable applications.</h4> 
+<h4>🎤 Passionate about sharing knowledge and helping others grow through learning.<br></h4>
+<h4>💬 Interested in Web Design? With my expertise in .NET development, I bridge the gap between design and functionality.</h4>
 <h3>🚀 About Me</h3>
 <hr>
 
