@@ -6,7 +6,7 @@
 ## 👑 .NET DEVELOPER   
 <h4>🌱 I’m currently learning ASP.NET, Angular & React </h4> 
 🎤 Like to share my knowledge<br>
-💬 Ask me about Web Design
+💬 Interested in Web Design? With my expertise in .NET development, I bridge the gap between design and functionality.
 <h3>🚀 About Me</h3>
 <hr>
 
