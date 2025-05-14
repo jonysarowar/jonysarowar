@@ -13,41 +13,17 @@
 I'm a dedicated and enthusiastic .NET developer, currently exploring the world of cross-platform applications using ASP.NET Core, Angular, and React. I love solving problems through code, and I'm passionate about learning modern technologies and building real-world solutions.
 
 ---
-
-<table>
-  <tr>
-    <td>
-
 ### 🧠 Skills Overview
 
-      | 🧑‍💻 Languages | 🧩 Frameworks & Runtimes | 🎨 Front-end |
-      |---------------|--------------------------|--------------|
-      | C#            | ASP.NET MVC              | Angular      |
-      | JavaScript    | ASP.NET Core             | React        |
-      | HTML5         | Entity Framework         | Bootstrap    |
-      | CSS3          | ADO.NET                  | jQuery       |
-      | SQL           | Node.js, Express.js      | Tailwind CSS, EJS |
+| 🧑‍💻 Languages | 🧩 Frameworks & Runtimes | 🎨 Front-end        | 🗄️ Database     | 🛠️ Tools & Platforms     | 🌐 Web Technologies     |
+|---------------|--------------------------|---------------------|----------------|---------------------------|--------------------------|
+| C#            | ASP.NET MVC              | Angular             | MS SQL Server  | Visual Studio, VS Code   | JSON, XML                |
+| JavaScript    | ASP.NET Core             | React               |                | Git & GitHub              | AJAX                     |
+| HTML5         | Entity Framework         | Bootstrap           |                | Postman                   | WebSockets, Socket.IO    |
+| CSS3          | ADO.NET                  | jQuery              |                | Crystal Reports, Figma    |                          |
+| SQL           | Node.js, Express.js      | Tailwind CSS, EJS   |                | Photoshop, Illustrator    |                          |
+|               |                          |                     |                | Netlify                   |                          |
 
-    </td>
-    <td>
-
-      &nbsp;&nbsp;&nbsp;
-
-    </td>
-    <td>
-
-      | 🗄️ Database     | 🛠️ Tools & Platforms       | 🌐 Web Technologies     |
-      |----------------|----------------------------|--------------------------|
-      | MS SQL Server  | Visual Studio, VS Code     | JSON, XML                |
-      |                | Git & GitHub               | AJAX                     |
-      |                | Postman                    | WebSockets, Socket.IO    |
-      |                | Crystal Reports, Figma     |                          |
-      |                | Photoshop, Illustrator     |                          |
-      |                | Netlify                    |                          |
-
-    </td>
-  </tr>
-</table>
 
 
 | 🔧 Other Skills                                                                 |
