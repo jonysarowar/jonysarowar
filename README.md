@@ -3,11 +3,12 @@
 
 ![](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
-## 👑 .NET DEVELOPER   
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  .NET DEVELOPER
 <h5>🌱 Currently exploring ASP.NET, Angular, and React to build modern, scalable applications.</h5> 
 <h5>🎤 Passionate about sharing knowledge and helping others grow through learning.<br></h5>
 <h5>💬 Interested in Web Design? With my expertise in .NET development, I bridge the gap between design and functionality.</h5>
-<h3>🚀 About Me</h3>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me:
 <hr>
 
 I'm a dedicated and enthusiastic .NET developer, currently exploring the world of cross-platform applications using ASP.NET Core, Angular, and React. I love solving problems through code, and I'm passionate about learning modern technologies and building real-world solutions.
