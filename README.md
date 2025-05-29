@@ -1,7 +1,7 @@
 # Hi, I a'm Jony Sarowar  👋
 
 
-![](https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/ff.jpg)
+![](https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/ff.jpg)
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  .NET DEVELOPER
 <h5>🌱 Currently exploring ASP.NET, Angular, and React to build modern, scalable applications.</h5> 
@@ -52,27 +52,27 @@ I aim to become a full-stack developer capable of creating impactful software th
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jony-sarowar" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonysarowar" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jony-sarowar&show_icons=true&locale=en" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jonysarowar&show_icons=true&locale=en" />
     </td>
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jony-sarowar&label=Profile%20views&color=0e75b6&style=flat" alt="jony-sarowar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonysarowar&label=Profile%20views&color=0e75b6&style=flat" alt="jonysarowar" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jony-sarowar" alt="jony-sarowar" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jonysarowar" alt="jonysarowar" /></a></p>
 
 
 <h3>☕ Connect with me!</h3>
 <hr>
 <p>
-<a href="https://www.facebook.com/jony.sarowar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/facebook.png" alt="facebook" width="40" height="40"/></a>
-<a href="https://www.instagram.com/jonysarowar/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/instagram.png" alt="instagram" width="40" height="40"/></a>
-<a href="https://x.com/sarowar_tweets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/twitter.png" alt="twitter" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/login" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-<a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jony-sarowar/Icon/refs/heads/main/youtube.png" alt="youtube" width="40" height="40"/></a></p>
+<a href="https://www.facebook.com/jony.sarowar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/facebook.png" alt="facebook" width="40" height="40"/></a>
+<a href="https://www.instagram.com/jonysarowar/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/instagram.png" alt="instagram" width="40" height="40"/></a>
+<a href="https://x.com/sarowar_tweets" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/twitter.png" alt="twitter" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/jonysarowar/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jonysarowar/Icon/refs/heads/main/youtube.png" alt="youtube" width="40" height="40"/></a></p>
 <br>
 <h3>📧 For Business Inquiries</h3>
 <hr>
